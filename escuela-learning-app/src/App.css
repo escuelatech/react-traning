@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.header, .footer{
+  width: 100%;   
+  background: #333;
+  padding: 10px 0;
+  color: #fff;
+}
+.hero-details{
+    flex-basis: 250px;
+    margin: 20px;
+
+}
